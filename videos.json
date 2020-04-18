@@ -1,0 +1,1017 @@
+[
+  {
+    "publishedAt": "2018-09-24T14:17:06.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №1 по функциональному анализу. Константинов Р.В.",
+    "description": "Аксиома выбора, теорема Хаусдорфа.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/CU80tDcfpc0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/CU80tDcfpc0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/CU80tDcfpc0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/CU80tDcfpc0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx584rgaeX_bV8GE56X8TOw9",
+    "position": 0,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "CU80tDcfpc0"
+    }
+  },
+  {
+    "publishedAt": "2018-09-24T14:17:03.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №2 по функциональному анализу. Константинов Р.В.",
+    "description": "Теорема Хаусдорфа, лемма Цорна.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7rUfK-hMdNs/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7rUfK-hMdNs/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7rUfK-hMdNs/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/7rUfK-hMdNs/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx584rgaeX_bV8GE56X8TOw9",
+    "position": 1,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "7rUfK-hMdNs"
+    }
+  },
+  {
+    "publishedAt": "2018-09-24T14:17:14.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №3 по функциональному анализу. Константинов Р.В.",
+    "description": "Лекция №3 по функциональному анализу. Топологические, метрические и нормированные линейные пространства. Константинов Р.В.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/dqt5SHnI9E8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/dqt5SHnI9E8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/dqt5SHnI9E8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/dqt5SHnI9E8/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx584rgaeX_bV8GE56X8TOw9",
+    "position": 2,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "dqt5SHnI9E8"
+    }
+  },
+  {
+    "publishedAt": "2018-09-28T06:56:07.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №4 по функциональному анализу. Константинов Р.В.",
+    "description": "Разбор тестовых задач.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/D5IoHyVD464/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/D5IoHyVD464/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/D5IoHyVD464/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/D5IoHyVD464/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx584rgaeX_bV8GE56X8TOw9",
+    "position": 3,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "D5IoHyVD464"
+    }
+  },
+  {
+    "publishedAt": "2018-10-06T07:11:55.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №5 по функциональному анализу. Константинов Р.Н.",
+    "description": "Лекция №5 по функциональному анализу. Топологические и метрические пространства (часть 1). Константинов Р.В.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7pWonkwBw0U/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7pWonkwBw0U/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7pWonkwBw0U/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/7pWonkwBw0U/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx584rgaeX_bV8GE56X8TOw9",
+    "position": 4,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "7pWonkwBw0U"
+    }
+  },
+  {
+    "publishedAt": "2018-10-12T16:12:36.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №6 по функциональному анализу. Константинов Р.В.",
+    "description": "База и предбаза топологии.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/_GQePYKbqCQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/_GQePYKbqCQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/_GQePYKbqCQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/_GQePYKbqCQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx584rgaeX_bV8GE56X8TOw9",
+    "position": 5,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "_GQePYKbqCQ"
+    }
+  },
+  {
+    "publishedAt": "2018-10-20T18:01:26.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №7 по функциональному анализу. Константинов Р.В.",
+    "description": "Топология поточечной сходимости, тихоновская топология.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/0tOGIx2oJKY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/0tOGIx2oJKY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/0tOGIx2oJKY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/0tOGIx2oJKY/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx584rgaeX_bV8GE56X8TOw9",
+    "position": 6,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "0tOGIx2oJKY"
+    }
+  },
+  {
+    "publishedAt": "2018-10-26T16:39:40.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №8 по функциональному анализу. Константинов Р.В.",
+    "description": "Лекция №8 по функциональному анализу. Топологически и секвенциально замкнутые множества. Часть 1. Константинов Р.В.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/YipJNOEj4mw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/YipJNOEj4mw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/YipJNOEj4mw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/YipJNOEj4mw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx584rgaeX_bV8GE56X8TOw9",
+    "position": 7,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "YipJNOEj4mw"
+    }
+  },
+  {
+    "publishedAt": "2018-11-05T14:48:31.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №9 по функциональному анализу. Константинов Р.В.",
+    "description": "Замкнутые и секвенциально замкнутые множества. Часть 2.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ZPq2RiW8RpI/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ZPq2RiW8RpI/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ZPq2RiW8RpI/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/ZPq2RiW8RpI/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx584rgaeX_bV8GE56X8TOw9",
+    "position": 8,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "ZPq2RiW8RpI"
+    }
+  },
+  {
+    "publishedAt": "2018-11-13T08:41:12.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №10 по функциональному анализу. Константинов Р.В.",
+    "description": "Секвенциальные компакты в метрическом пространстве.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/7lHqszsq4xM/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/7lHqszsq4xM/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/7lHqszsq4xM/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/7lHqszsq4xM/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx584rgaeX_bV8GE56X8TOw9",
+    "position": 9,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "7lHqszsq4xM"
+    }
+  },
+  {
+    "publishedAt": "2018-11-18T09:23:10.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №11 по функциональному анализу. Константинов Р.В.",
+    "description": "Топологическая и секвенциальная компактность в метрическом пространстве.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/gLNoqlgRDBg/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/gLNoqlgRDBg/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/gLNoqlgRDBg/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/gLNoqlgRDBg/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx584rgaeX_bV8GE56X8TOw9",
+    "position": 10,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "gLNoqlgRDBg"
+    }
+  },
+  {
+    "publishedAt": "2018-11-28T16:16:14.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №12 по функциональному анализу. Константинов Р.В.",
+    "description": "Топологическая и секвенциальная компактность в топологических пространствах.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/icQMhoh6kAc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/icQMhoh6kAc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/icQMhoh6kAc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/icQMhoh6kAc/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx584rgaeX_bV8GE56X8TOw9",
+    "position": 11,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "icQMhoh6kAc"
+    }
+  },
+  {
+    "publishedAt": "2018-12-01T16:25:00.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №13 по функциональному анализу. Константинов Р.В.",
+    "description": "Топологическая, счётная и секвенциальная компактность.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Y9Qb-ke7CB0/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Y9Qb-ke7CB0/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Y9Qb-ke7CB0/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/Y9Qb-ke7CB0/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx584rgaeX_bV8GE56X8TOw9",
+    "position": 12,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "Y9Qb-ke7CB0"
+    }
+  },
+  {
+    "publishedAt": "2018-12-09T16:16:24.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №14 по функциональному анализу. Константинов Р.В.",
+    "description": "Эквивалентные нормы в нормированных пространствах.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/hYp_LaqaPWU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/hYp_LaqaPWU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/hYp_LaqaPWU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/hYp_LaqaPWU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx584rgaeX_bV8GE56X8TOw9",
+    "position": 13,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "hYp_LaqaPWU"
+    }
+  },
+  {
+    "publishedAt": "2018-12-14T12:03:44.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №15 по функциональному анализу. Константинов Р.В.",
+    "description": "Теорема Риса о не вполне ограниченности сферы и нормы линейного функционала.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/eWfzN-pg6W4/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/eWfzN-pg6W4/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/eWfzN-pg6W4/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/eWfzN-pg6W4/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx584rgaeX_bV8GE56X8TOw9",
+    "position": 14,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "eWfzN-pg6W4"
+    }
+  },
+  {
+    "publishedAt": "2019-02-08T09:29:19.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция № 1 по функциональному анализу. Константинов Р. В.",
+    "description": "Теорема Хана - Банаха",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/cFje-ef99mY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/cFje-ef99mY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/cFje-ef99mY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/cFje-ef99mY/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx4SSW1oCJjpCxkc6wTqglMl",
+    "position": 0,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "cFje-ef99mY"
+    }
+  },
+  {
+    "publishedAt": "2019-02-16T16:03:40.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция № 2 по функциональному анализу. Константинов Р. В.",
+    "description": "Следствия теоремы Хана - Банаха",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/rrVkYYfG8iY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/rrVkYYfG8iY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/rrVkYYfG8iY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/rrVkYYfG8iY/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx4SSW1oCJjpCxkc6wTqglMl",
+    "position": 1,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "rrVkYYfG8iY"
+    }
+  },
+  {
+    "publishedAt": "2019-02-25T14:35:31.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция № 3 по функциональному анализу. Константинов Р. В.",
+    "description": "Метризуемость замкнутой со звездочкой топологии",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/YxjaWtwY4lw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/YxjaWtwY4lw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/YxjaWtwY4lw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/YxjaWtwY4lw/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx4SSW1oCJjpCxkc6wTqglMl",
+    "position": 2,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "YxjaWtwY4lw"
+    }
+  },
+  {
+    "publishedAt": "2019-03-14T10:50:50.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция № 4 по функциональному анализу. Константинов Р. В.",
+    "description": "Определение слабой топологии",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/gp2zVYMSReo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/gp2zVYMSReo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/gp2zVYMSReo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/gp2zVYMSReo/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx4SSW1oCJjpCxkc6wTqglMl",
+    "position": 3,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "gp2zVYMSReo"
+    }
+  },
+  {
+    "publishedAt": "2019-03-14T10:57:22.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция № 5 по функциональному анализу. Константинов Р. В.",
+    "description": "Теорема отделимости. Теорема Мазура.(Часть 1)",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/aE7_TVa7_6U/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/aE7_TVa7_6U/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/aE7_TVa7_6U/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/aE7_TVa7_6U/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx4SSW1oCJjpCxkc6wTqglMl",
+    "position": 4,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "aE7_TVa7_6U"
+    }
+  },
+  {
+    "publishedAt": "2019-03-22T08:17:03.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция № 6 по функциональному анализу. Константинов Р. В.",
+    "description": "Теорема отделимости. Теорема Мазура (часть 2)",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/FNK5qFEohrE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/FNK5qFEohrE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/FNK5qFEohrE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/FNK5qFEohrE/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx4SSW1oCJjpCxkc6wTqglMl",
+    "position": 5,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "FNK5qFEohrE"
+    }
+  },
+  {
+    "publishedAt": "2019-04-02T08:01:45.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция № 7 по функциональному анализу. Константинов Р. В.",
+    "description": "Рефлексивные пространства",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/n04xJd1OnYo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/n04xJd1OnYo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/n04xJd1OnYo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/n04xJd1OnYo/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx4SSW1oCJjpCxkc6wTqglMl",
+    "position": 6,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "n04xJd1OnYo"
+    }
+  },
+  {
+    "publishedAt": "2019-04-02T08:02:20.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция № 8 по функциональному анализу. Константинов Р. В.",
+    "description": "Рефлексивность гильбертова пространства",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/nV3BKaNItpo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/nV3BKaNItpo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/nV3BKaNItpo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/nV3BKaNItpo/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx4SSW1oCJjpCxkc6wTqglMl",
+    "position": 7,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "nV3BKaNItpo"
+    }
+  },
+  {
+    "publishedAt": "2019-04-06T12:32:21.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция № 9 по функциональному анализу. Константинов Р. В.",
+    "description": "Полнота пространства линейных непрерывных операторов.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/magwjtRWuHo/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/magwjtRWuHo/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/magwjtRWuHo/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/magwjtRWuHo/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx4SSW1oCJjpCxkc6wTqglMl",
+    "position": 8,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "magwjtRWuHo"
+    }
+  },
+  {
+    "publishedAt": "2019-04-23T09:21:21.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №10 по функциональному анализу. Константинов Р.В.",
+    "description": "Компактные операторы",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/ApV3ph4otOQ/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/ApV3ph4otOQ/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/ApV3ph4otOQ/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/ApV3ph4otOQ/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx4SSW1oCJjpCxkc6wTqglMl",
+    "position": 9,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "ApV3ph4otOQ"
+    }
+  },
+  {
+    "publishedAt": "2019-05-02T11:37:07.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №11 по функциональному анализу. Константинов Р.В.",
+    "description": "Теорема Банаха - Штейнгауза",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/DSbbxmdSLac/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/DSbbxmdSLac/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/DSbbxmdSLac/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/DSbbxmdSLac/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx4SSW1oCJjpCxkc6wTqglMl",
+    "position": 10,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "DSbbxmdSLac"
+    }
+  },
+  {
+    "publishedAt": "2019-05-14T08:40:21.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №13 по функциональному анализу. Константинов Р.В.",
+    "description": "Банаховы алгебры. Спектры.",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/GQHZjeayvOk/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/GQHZjeayvOk/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/GQHZjeayvOk/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/GQHZjeayvOk/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx4SSW1oCJjpCxkc6wTqglMl",
+    "position": 11,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "GQHZjeayvOk"
+    }
+  },
+  {
+    "publishedAt": "2019-05-07T10:04:00.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №14 по функциональному анализу. Константинов Р.В.",
+    "description": "Идеалы и гомоморфизмы",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/3QmtDLMrgiE/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/3QmtDLMrgiE/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/3QmtDLMrgiE/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/3QmtDLMrgiE/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx4SSW1oCJjpCxkc6wTqglMl",
+    "position": 12,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "3QmtDLMrgiE"
+    }
+  },
+  {
+    "publishedAt": "2019-05-28T10:09:21.000Z",
+    "channelId": "UCXqcCK2x8w5VvNIz44TEBvQ",
+    "title": "Лекция №15 по функциональному анализу. Константинов Р.В.",
+    "description": "Теорема Гельфанда-Наймарка",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/shKP8Eu_11s/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/shKP8Eu_11s/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/shKP8Eu_11s/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/shKP8Eu_11s/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      }
+    },
+    "channelTitle": "Физтех-Live",
+    "playlistId": "PLyBWNG-pZKx4SSW1oCJjpCxkc6wTqglMl",
+    "position": 13,
+    "resourceId": {
+      "kind": "youtube#video",
+      "videoId": "shKP8Eu_11s"
+    }
+  }
+]
