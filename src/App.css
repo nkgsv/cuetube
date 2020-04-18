@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+}
+
+.search-input {
+  margin-top: 10px;
+  padding: 10px 10px 10px 10px;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 12pt;
+}
+
+.control {
+  width: 100%;
+  display: flex;
+  margin-top: 5px;
+}
+
+.control > input {
+  padding: 10px 10px 10px 10px;
+  width: 100%;
+  font-size: 12pt;
+}
+
+.control > select {
+  margin: auto 10px auto 0px;
+}
+
+.control > a {
+  margin: auto 0px auto 10px;
+}
+
+.tracks {
+  background-color: #eeefef;
+}
+
+.track {
+  /*padding: 10px;*/
+  border: solid;
+  border-color: blue;
+  border-width: 1px;
+  border-color: #eeefef;
+  background-color: white;
+  width: 100%;
+  text-align: left;
+  box-sizing: border-box;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 0px 10px 0px;
+  display: block;
+  text-decoration: none;
+  color: black;
+}
+
+.track:hover {
+  border-color: gray;
+}
+
+a.track > div.info {
+  font-size: small;
+  padding: 10px 5px 5px 0px;
+  color: gray;
+}
+
+a.lecture {
+  font-size: small;
+  padding: 10px 5px 5px 0px;
+  color: gray;
+}
+
+.lecture:hover {
+  border-color: gray;
+}
